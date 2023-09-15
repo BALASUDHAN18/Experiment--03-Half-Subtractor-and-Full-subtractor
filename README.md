@@ -76,6 +76,7 @@ Half subtractor
 ![267662315-be4b3b19-421b-4d37-b228-0fedc9227fed](https://github.com/BALASUDHAN18/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118807740/cc69058e-c117-4460-8e52-5ed710b296e0)
 
 Full subtractor
+
 ![267662429-d0797609-71b6-42ea-8ed2-d1c43b6ce6f0](https://github.com/BALASUDHAN18/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118807740/83e2cee0-4c8a-4f09-b1da-72ce340a8cb0)
 
 ##  RTL Diagram
